@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
+        "outputFile": "/home/atul/Desktop/Function2_TEST/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml",
         "map": [
             {
                 "to": {
@@ -691,46 +691,8 @@
                     "startLine": 38,
                     "startColumn": 4,
                     "startOffset": 4563,
-                    "endColumn": 101,
-                    "endOffset": 4660
-                },
-                "from": {
-                    "file": "/home/atul/.android/build-cache/0f30915f992b63010ef14b245e11b3655f6f0d53/output/res/values-da/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 275,
-                        "endColumn": 101,
-                        "endOffset": 372
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 4665,
-                    "endColumn": 92,
-                    "endOffset": 4753
-                },
-                "from": {
-                    "file": "/home/atul/.android/build-cache/0f30915f992b63010ef14b245e11b3655f6f0d53/output/res/values-da/values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 377,
-                        "endColumn": 92,
-                        "endOffset": 465
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 4758,
                     "endColumn": 78,
-                    "endOffset": 4832
+                    "endOffset": 4637
                 },
                 "from": {
                     "file": "/home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/res/values-da/values-da.xml",
@@ -745,11 +707,11 @@
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 4837,
+                    "startOffset": 4642,
                     "endColumn": 100,
-                    "endOffset": 4933
+                    "endOffset": 4738
                 },
                 "from": {
                     "file": "/home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/res/values-da/values-da.xml",

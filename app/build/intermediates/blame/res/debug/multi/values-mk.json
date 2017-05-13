@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+        "outputFile": "/home/atul/Desktop/Function2_TEST/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
         "map": [
             {
                 "to": {
@@ -322,44 +322,6 @@
                         "startOffset": 2521,
                         "endColumn": 103,
                         "endOffset": 2624
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 2687,
-                    "endColumn": 114,
-                    "endOffset": 2797
-                },
-                "from": {
-                    "file": "/home/atul/.android/build-cache/0f30915f992b63010ef14b245e11b3655f6f0d53/output/res/values-mk/values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 275,
-                        "endColumn": 114,
-                        "endOffset": 385
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 2802,
-                    "endColumn": 97,
-                    "endOffset": 2895
-                },
-                "from": {
-                    "file": "/home/atul/.android/build-cache/0f30915f992b63010ef14b245e11b3655f6f0d53/output/res/values-mk/values.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 390,
-                        "endColumn": 97,
-                        "endOffset": 483
                     }
                 }
             }

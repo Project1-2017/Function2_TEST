@@ -2,148 +2,139 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/atul/.android/build-cache/83fb10c040f5fcfbb89f6ba24d30ca43794646fa/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e32363a0e316d510f42eb03b9d0b74a36217d4f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/atul/.android/build-cache/c2544e21664d90ebf0ffb492a2d296d842d89532/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a410fa0d327d6c411cbde8e24cfc4e236063d34/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/atul/.android/build-cache/9e6995be8e2ec2c9014c9ecc71f221b99dd0056c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_955ff9a41ad1f9a8e3ebfa6bd7fbe77aa7799f75/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/atul/.android/build-cache/e69d6d85d623c72f8b52a9dbd4c051ef1c852e37/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_946cba093c0ec06d5bec63fa4a38dc4b35ad638d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/atul/.android/build-cache/68bcfcb4121537d0c178cfb01836c47d74b85de9/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3324f3321f2e39df906deb34fc86d724b720df70/classes.dex" />
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_3324f3321f2e39df906deb34fc86d724b720df70.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/atul/.android/build-cache/75d9dbbb3aff5f08d9d8806a0021f972f2492b4c/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3ded4c00332c206995d7656efd93cbbae942b90/classes.dex" />
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_b3ded4c00332c206995d7656efd93cbbae942b90.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/9e6995be8e2ec2c9014c9ecc71f221b99dd0056c/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="cdd0485ab2c352a1ec7f6f6f573dca4d74735201">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c652aabc6b534c7428ff45b59a711b24803dec49/classes.dex" />
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_955ff9a41ad1f9a8e3ebfa6bd7fbe77aa7799f75.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/83fb10c040f5fcfbb89f6ba24d30ca43794646fa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_8e32363a0e316d510f42eb03b9d0b74a36217d4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/25f185a82843d267d9927361f626e64b0763774b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e0f082141b7aa90aab5d3a47ab09b0edc958f6b">
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_4926e8767858a4320217ba1eb93ae791d1367a28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/c2544e21664d90ebf0ffb492a2d296d842d89532/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_2a410fa0d327d6c411cbde8e24cfc4e236063d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/atul/.android/build-cache/a1f702929202a4bca84440b4dd3d44a9b51ab16f/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_087aa284890c3c491f6bf45fb64af9c9e3d1a91d/classes.dex" />
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_087aa284890c3c491f6bf45fb64af9c9e3d1a91d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/atul/.android/build-cache/db958b8745c092f86f69605a31f83c640941dc85/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3109d4eff88006a92ad303e357704cba2131f75e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_82d1095149c0dc1f322f1416781ff5edcc23f345/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/atul/.android/build-cache/d8ed61346d9bbbaac19acbe53a730e6f1882d228/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9189394d4e270db40652614d07f4a8f2f0ac0828/classes.dex" />
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_9189394d4e270db40652614d07f4a8f2f0ac0828.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/atul/.android/build-cache/1cce8a2e4610ab41ca72cfa8e81e2cf2e855e833/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16b5122f88a68af00969070c71721980debb75ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/atul/.android/build-cache/9132f5bd7f15f097468f503390af0ba700b38b02/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c960e3610f6ce29717f62c2cab0db04df0ca7e40/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/home/atul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_804e27758fb508b9d2f057713e7c5832ec083d6b/classes.dex" />
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_804e27758fb508b9d2f057713e7c5832ec083d6b.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/9132f5bd7f15f097468f503390af0ba700b38b02/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8882197cbaaaa038e6a48c24bdc8d9c075054f8/classes.dex" />
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_c960e3610f6ce29717f62c2cab0db04df0ca7e40.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/1cce8a2e4610ab41ca72cfa8e81e2cf2e855e833/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_16b5122f88a68af00969070c71721980debb75ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/e69d6d85d623c72f8b52a9dbd4c051ef1c852e37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_946cba093c0ec06d5bec63fa4a38dc4b35ad638d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/db958b8745c092f86f69605a31f83c640941dc85/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_3109d4eff88006a92ad303e357704cba2131f75e.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c70c2c649951da4f6fe77a42962da32209840420/classes.dex" />
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_c70c2c649951da4f6fe77a42962da32209840420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d0d5e86f5b7203834df01ed78ebfdd5cbf74d48">
+        <dex dex="/home/atul/Desktop/Function2_TEST/app/build/intermediates/pre-dexed/debug/classes_b8882197cbaaaa038e6a48c24bdc8d9c075054f8.jar" />
     </item>
 
 </items>

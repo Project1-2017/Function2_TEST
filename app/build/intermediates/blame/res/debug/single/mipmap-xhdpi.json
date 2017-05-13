@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
-        "source": "/home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/atul/Desktop/Function2_TEST/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/atul/Desktop/Function2_TEST/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
-        "source": "/home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/atul/Desktop/Function2_TEST/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/atul/Desktop/Function2_TEST/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     }
 ]

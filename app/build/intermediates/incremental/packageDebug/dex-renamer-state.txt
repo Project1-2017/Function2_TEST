@@ -1,7 +1,4 @@
-#Fri May 12 15:46:16 IST 2017
-base.0=/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_82d1095149c0dc1f322f1416781ff5edcc23f345
-renamed.1=classes2.dex
+#Sat May 13 22:16:44 IST 2017
+base.0=/home/atul/Desktop/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c652aabc6b534c7428ff45b59a711b24803dec49/classes.dex
-base.1=/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c652aabc6b534c7428ff45b59a711b24803dec49
-file.0=/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_82d1095149c0dc1f322f1416781ff5edcc23f345/classes.dex
+file.0=/home/atul/Desktop/Function2_TEST/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
