@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/atul/Desktop/Software Solutions/Function2_TEST/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

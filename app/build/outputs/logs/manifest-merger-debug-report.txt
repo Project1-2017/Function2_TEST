@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:3:5-74
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:12:5-41:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/atul/.android/build-cache/a1f702929202a4bca84440b4dd3d44a9b51ab16f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/atul/.android/build-cache/c2544e21664d90ebf0ffb492a2d296d842d89532/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:9.0.1] /home/atul/.android/build-cache/0f30915f992b63010ef14b245e11b3655f6f0d53/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/atul/.android/build-cache/db958b8745c092f86f69605a31f83c640941dc85/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/atul/.android/build-cache/75d9dbbb3aff5f08d9d8806a0021f972f2492b4c/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/atul/.android/build-cache/9132f5bd7f15f097468f503390af0ba700b38b02/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/atul/.android/build-cache/68bcfcb4121537d0c178cfb01836c47d74b85de9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/atul/.android/build-cache/9e6995be8e2ec2c9014c9ecc71f221b99dd0056c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/atul/.android/build-cache/1cce8a2e4610ab41ca72cfa8e81e2cf2e855e833/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/atul/.android/build-cache/e69d6d85d623c72f8b52a9dbd4c051ef1c852e37/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/atul/.android/build-cache/d8ed61346d9bbbaac19acbe53a730e6f1882d228/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/atul/.android/build-cache/83fb10c040f5fcfbb89f6ba24d30ca43794646fa/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:29:13-58
+activity#xyz.softearesolutions.function3.project1.com.function2_test.MapsActivity
+ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:32:9-40:20
+	android:label
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/atul/.android/build-cache/a1f702929202a4bca84440b4dd3d44a9b51ab16f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/atul/.android/build-cache/c2544e21664d90ebf0ffb492a2d296d842d89532/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:9.0.1] /home/atul/.android/build-cache/0f30915f992b63010ef14b245e11b3655f6f0d53/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/atul/.android/build-cache/db958b8745c092f86f69605a31f83c640941dc85/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/atul/.android/build-cache/75d9dbbb3aff5f08d9d8806a0021f972f2492b4c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/atul/.android/build-cache/9132f5bd7f15f097468f503390af0ba700b38b02/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/atul/.android/build-cache/68bcfcb4121537d0c178cfb01836c47d74b85de9/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/atul/.android/build-cache/9e6995be8e2ec2c9014c9ecc71f221b99dd0056c/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/atul/.android/build-cache/1cce8a2e4610ab41ca72cfa8e81e2cf2e855e833/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/atul/.android/build-cache/e69d6d85d623c72f8b52a9dbd4c051ef1c852e37/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/atul/.android/build-cache/d8ed61346d9bbbaac19acbe53a730e6f1882d228/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/atul/.android/build-cache/83fb10c040f5fcfbb89f6ba24d30ca43794646fa/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+		INJECTED from /home/atul/Desktop/Software Solutions/Function2_TEST/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/atul/.android/build-cache/a1f702929202a4bca84440b4dd3d44a9b51ab16f/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/atul/.android/build-cache/c2544e21664d90ebf0ffb492a2d296d842d89532/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/atul/.android/build-cache/68bcfcb4121537d0c178cfb01836c47d74b85de9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/atul/.android/build-cache/9e6995be8e2ec2c9014c9ecc71f221b99dd0056c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/atul/.android/build-cache/1cce8a2e4610ab41ca72cfa8e81e2cf2e855e833/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/atul/.android/build-cache/e69d6d85d623c72f8b52a9dbd4c051ef1c852e37/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/atul/.android/build-cache/d8ed61346d9bbbaac19acbe53a730e6f1882d228/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/atul/.android/build-cache/83fb10c040f5fcfbb89f6ba24d30ca43794646fa/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/atul/.android/build-cache/445c4d374dec7a0a09833504cd06f247ea40cbcc/output/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /home/atul/.android/build-cache/d7265dca63922283c52fea61ba11039415d24ed7/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/atul/.android/build-cache/db958b8745c092f86f69605a31f83c640941dc85/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/atul/.android/build-cache/db958b8745c092f86f69605a31f83c640941dc85/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/atul/.android/build-cache/db958b8745c092f86f69605a31f83c640941dc85/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/atul/.android/build-cache/db958b8745c092f86f69605a31f83c640941dc85/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/atul/.android/build-cache/9132f5bd7f15f097468f503390af0ba700b38b02/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/atul/.android/build-cache/9132f5bd7f15f097468f503390af0ba700b38b02/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/atul/.android/build-cache/9132f5bd7f15f097468f503390af0ba700b38b02/output/AndroidManifest.xml:20:20-65
